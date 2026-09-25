@@ -1,4 +1,4 @@
-<!-- gf-brief source=46db078e0ff9d75c5720fabf9cada5550d6332f62a4ab172d0d92f1f57237974 written=2026-09-26T01:15:10+03:00 -->
+<!-- gf-brief source=46db078e0ff9d75c5720fabf9cada5550d6332f62a4ab172d0d92f1f57237974 written=2026-09-26T01:18:33+03:00 -->
 # Modello
 
 ## What it is
