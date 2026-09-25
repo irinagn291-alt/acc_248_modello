@@ -1,0 +1,15 @@
+At launch the system may ask for notification permission via the system permission dialog. There is no custom usage-description string in Info.plist or build settings.
+
+There is no login or accounts, no in-app purchase, no user-generated content feeds, no account deletion flow, and no App Tracking Transparency prompt.
+
+Modello is a small studio for learning makers by eye. You save museum paintings, hang one as a study, then mate it by tapping the tile painted by the same hand. It is for anyone who wants a quiet, on-device drill with Frick Collection works and personal twin and break marks.
+
+No credentials or demo account are needed. On a cold launch the app may briefly show splash art while the studio loads, and the system may ask for notification permission. If onboarding is not finished, four pages appear in order: Hang a study with Next, Mate same hand with Next, File the twin with Next, and Stay on device with Start. Skip or Start finishes onboarding and opens the home studio. From the home studio, tap Open Explore. In Explore, type in Search a maker or title or tap Browse Bellini, then tap Save on at least two paintings by one maker and enough other makers for decoys. Close Explore. When a pair is ready, tap Install to hang a study and four unlabeled tiles. Tap a tile (Mate this tile) to attempt a mate; a wrong tile shows Cooled. A correct mate shows Twinned. Open Saved to read Twins and Breaks and use Retract newest if needed. Open Settings for This device, Walk onboarding again, Contact us, Catalog credit, and Reset all data. How mate works opens the Install then mate sheet.
+
+Works, marks, and studio state stay on this phone. The on-screen support control is Contact us.
+
+Dates and counts follow the device locale. There is no special region lock beyond that.
+
+No licence or regulated-industry paperwork applies; this is an Education app that credits The Frick Collection as the catalog source and does not operate in a regulated industry.
+
+The app is a personal log only and gives no recommendations.

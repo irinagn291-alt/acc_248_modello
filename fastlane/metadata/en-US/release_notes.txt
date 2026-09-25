@@ -1,0 +1,13 @@
+Initial release of Modello.
+
+• Hang a study from saved paintings and mate same-hand tiles
+• Install a hanging painting and four unlabeled mate tiles
+• Explore and search makers or titles; Save into the crate
+• Local Frick Collection shelf when search is quiet or unreachable
+• Twins and Breaks on Saved, with Retract newest
+• Twins and Twins today counts on the studio
+• Onboarding and Walk onboarding again
+• Stay on this device; Reset all data
+• Catalog credit for The Frick Collection
+• Contact us support link
+• How mate works / Install then mate explainer
